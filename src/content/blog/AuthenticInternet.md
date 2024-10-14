@@ -10,3 +10,5 @@ tags: ["essay"]
 So this is going to be a post about the internet. I want to see how that shit works. 
 
 ![Some picture](./post-assets/mymind.jpg)
+
+So I'm trying some new updates. Let's see how this works.
